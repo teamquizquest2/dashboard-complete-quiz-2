@@ -218,12 +218,12 @@ Each screenshot showcases a core part of the user experience.
 ---
 
 ### 🧭 Dashboard
-<img src="./screenshots/Dashboard.png" width="650" />
+<img src="Screenshots/Dashboard.png" width="650" />
 
 ---
 
 ### 📝 Start Quiz Page
-<img src="screenshots/startQuiz.png" width="650" />
+<img src="Screenshots/startQuiz.png" width="650" />
 
 ---
 
