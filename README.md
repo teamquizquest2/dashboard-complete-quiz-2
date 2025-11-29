@@ -243,12 +243,12 @@ Each screenshot showcases a core part of the user experience.
 ---
 
 ### 🎉 Quiz Result Summary
-<img src="Screenshots/result.png" width="650" />
+<img src="Screenshots/resut.png" width="650" />
 
 ---
 
 ### 🧭 Logout
-<img src="Screenshots/Logout.png" width="650" />
+<img src="Screenshots/logout.png" width="650" />
 
 ---
 
