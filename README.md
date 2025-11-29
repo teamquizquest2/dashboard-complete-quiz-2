@@ -208,12 +208,12 @@ Each screenshot showcases a core part of the user experience.
 ## 📸 Project Screenshots
 
 ### 🧭 SignUp
-<img src="./screenshots/SignUp.png" width="650" />
+<img src="Screenshots/SignUp.png" width="650" />
 
 ---
 
 ### 🧭 Login
-<img src="./screenshots/Login.png" width="650" />
+<img src="Screenshots/Login.png" width="650" />
 
 ---
 
@@ -228,22 +228,22 @@ Each screenshot showcases a core part of the user experience.
 ---
 
 ### 🧮 Quiz Attempt Page
-<img src="./screenshots/Quiz.png" width="650" />
+<img src="Screenshots/Quiz.png" width="650" />
 
 ---
 
 ### 🧭 Cancel Quiz Button
-<img src="./screenshots/cancelQuiz.png" width="650" />
+<img src="Screenshots/cancelQuiz.png" width="650" />
 
 ---
 
 ### 🎉 Quiz Result Summary
-<img src="./screenshots/result.png" width="650" />
+<img src="Screenshots/result.png" width="650" />
 
 ---
 
 ### 🧭 Logout
-<img src="./screenshots/Logout.png" width="650" />
+<img src="Screenshots/Logout.png" width="650" />
 
 ---
 
