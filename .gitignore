@@ -1,0 +1,43 @@
+# Node modules (should never be committed)
+node_modules/
+
+# Dependency directories for frontend and backend if separated
+
+/backend/node_modules/
+
+# Environment variable files (never commit secrets)
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Build directories
+dist/
+build/
+
+# IDE/workspace settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Optional: Coverage, temp files
+coverage/
+tmp/
+temp/
+
+# Misc
+*.local
+
+# Ignore MongoDB data files if present
+dump/
