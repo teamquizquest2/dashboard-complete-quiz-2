@@ -207,13 +207,18 @@ Each screenshot showcases a core part of the user experience.
 
 ## 📸 Project Screenshots
 
+### 🧭 Homepage
+<img src="Screenshots/homePage.png" width="650" />
+
+---
+
 ### 🧭 SignUp
 <img src="Screenshots/SignUp.png" width="650" />
 
 ---
 
 ### 🧭 Login
-<img src="Screenshots/Login.png" width="650" />
+<img src="Screenshots/login.png" width="650" />
 
 ---
 
@@ -228,7 +233,7 @@ Each screenshot showcases a core part of the user experience.
 ---
 
 ### 🧮 Quiz Attempt Page
-<img src="Screenshots/Quiz.png" width="650" />
+<img src="Screenshots/quiz.png" width="650" />
 
 ---
 
