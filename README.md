@@ -223,7 +223,7 @@ Each screenshot showcases a core part of the user experience.
 ---
 
 ### 📝 Start Quiz Page
-<img src="./screenshots/startQuiz.png" width="650" />
+<img src="screenshots/startQuiz.png" width="650" />
 
 ---
 
